@@ -1,0 +1,24 @@
+.customize-input-password {
+  position: relative;
+  height: 26px;
+}
+
+i.fas {
+  position: absolute;
+  top: 13px;
+  right: 8px;
+  cursor: pointer;
+  color: black;
+}
+
+.customize-input-passwordforgot-password a {
+  float: right;
+  margin-right: 2px;
+  margin-top: -23px;
+}
+
+.forgot-password a {
+  float: right;
+  margin-right: 0px;
+  /* margin-top: -20px; */
+}
